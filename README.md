@@ -1,3 +1,4 @@
+# logdna-logger
 You can simply include `/dist/logdna-logger.js` file to your browser page with defined config options listed below.
 
 When including library to browser please define variables (default value is below)
