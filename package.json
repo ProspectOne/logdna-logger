@@ -1,0 +1,17 @@
+{
+  "name": "logdnabundle",
+  "version": "1.0.0",
+  "description": "Logdna Client Logging bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "logdna": "^3.3.3",
+    "uglify-es": "^3.3.9"
+  },
+  "dependencies": {}
+}
